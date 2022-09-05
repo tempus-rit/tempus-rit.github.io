@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
   font-family: 'Open Sans', sans-serif;
   display: grid;
   grid-template-rows: min-content auto;
@@ -8,11 +7,7 @@
 }
 
 ul {
-	text-align: left;
-}
-
-#logo {
-  width: 500px;
+  margin: 0;
 }
 
 .App-link {

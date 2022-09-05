@@ -2,18 +2,18 @@ import './App.css';
 import HomePage from './pages/home/HomePage';
 import FourUpsPage from './pages/4ups/FourUpsPage';
 import NavBar from './components/NavBar';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
       <NavBar />
-      <BrowserRouter>
+      <HashRouter basename='/'>
         <Routes>
-          <Route path='/' element={<HomePage />} />
+          <Route exact path='/' element={<HomePage />} />
           <Route path='/4ups' element={<FourUpsPage />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }

@@ -2,6 +2,7 @@ import React from 'react';
 import tempusLogo from '../../media/TEMPUS.jpg';
 import oroliaLogo from '../../media/orolia-logo.svg'
 import styled from 'styled-components';
+import { Table } from '../../components/styledComponents';
 
 const Page = styled.div`
   width: 100%;
@@ -62,27 +63,6 @@ const HomePage = () => {
     </Page>
   );
 };
-
-const Table = styled.table`
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
-
-  & th, & td {
-    padding: 6px 7px;
-  }
-
-  & thead tr {
-    background-color: #245cac;
-    color: white;
-  }
-  
-  & tbody tr:nth-of-type(even) {
-    background-color: #f3f3f3;
-  }
-  
-  & tbody tr:last-of-type {
-    border-bottom: 2px solid #009879;
-  }
-`;
 
 const MemberTable = () => <Table>
   <thead>

@@ -1,0 +1,25 @@
+[
+  {
+    "date": "2022-09-05",
+    "progress": [
+      {
+        "task": "work on website",
+        "assignee": "Bradley"
+      }
+    ],
+    "plans": [
+      {
+        "task": "plan item 1",
+        "assignee": "assignee"
+      }
+    ],
+    "risks": [
+      "risk 1",
+      "risk 2"
+    ],
+    "needs": [
+      "need 1",
+      "need 2"
+    ]
+  }
+]

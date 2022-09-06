@@ -4,7 +4,7 @@ const FourUpTemplate = ({ content: { date, progress, plans, risks, needs } }) =>
   return <div style={{ marginLeft: 20 }}>
     <Table>
       <caption style={{ textAlign: 'left', marginLeft: '-20px' }}>
-        <h3 style={{ margin: 5 }}>{new Date(date).toLocaleDateString()}</h3>
+        <h3 style={{ margin: 5 }}>Week of {new Date(date).toLocaleDateString('en-US', { timeZone: 'UTC' })}</h3>
       </caption>
       <tbody>
       <tr>

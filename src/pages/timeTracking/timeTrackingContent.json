@@ -1,0 +1,19 @@
+[
+  {
+    "date": "2022-09-05",
+    "thisWeekTracking": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": [
+        { "task": "work on website", "time": "6" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  }
+]

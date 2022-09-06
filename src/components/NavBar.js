@@ -34,7 +34,6 @@ const NavBar = () => {
         />
         <NavItem href='/'>Home</NavItem>
         <NavItem href='/#/4ups'>4-Ups</NavItem>
-        <NavItem href='/#/agendas'>Meeting Agendas</NavItem>
         <NavItem href='/#/time-tracking'>Time Tracking</NavItem>
       </Nav>
     </header>

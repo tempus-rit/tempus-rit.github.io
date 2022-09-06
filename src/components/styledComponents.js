@@ -10,6 +10,7 @@ export const Table = styled.table`
   & thead tr, & th {
     background-color: #245cac;
     color: white;
+    padding-left: 20px;
   }
   
   & tbody tr:nth-of-type(even) {

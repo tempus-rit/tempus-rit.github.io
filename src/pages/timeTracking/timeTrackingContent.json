@@ -3,7 +3,9 @@
     "date": "2022-09-05",
     "thisWeekTracking": {
       "Ethan": [],
-      "Raavi": [],
+      "Raavi": [
+        { "task": "work on website", "time": "1"}
+      ],
       "Johann": [],
       "Bradley": [
         { "task": "work on website", "time": "6" }

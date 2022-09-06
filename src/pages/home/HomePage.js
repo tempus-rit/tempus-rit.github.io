@@ -33,8 +33,8 @@ const TwoColumn = styled.div`
   justify-content: space-evenly;
 `;
 
-const TempusLogo = () => <img style={{ maxWidth: 500, display: 'block', margin: 'auto' }} src={tempusLogo} alt='tempus logo'/>
-const OroliaLogo = () => <img style={{ width: 120, margin: 10 }} src={oroliaLogo} alt='orolia'/>;
+const TempusLogo = () => <img style={{ maxWidth: 500, display: 'block', margin: 'auto' }} src={tempusLogo} alt='tempus logo' />
+const OroliaLogo = () => <img style={{ width: 120, margin: 10 }} src={oroliaLogo} alt='orolia' />;
 
 const HomePage = () => {
   return (
@@ -82,11 +82,11 @@ const MemberTable = () => <Table>
     </tr>
     <tr>
       <td>Johann Lee</td>
-      <td />
+      <td>Backend Lead</td>
     </tr>
     <tr>
       <td>Bradley Boxer</td>
-      <td />
+      <td>Frontend Lead + Website Manager</td>
     </tr>
   </tbody>
 </Table>

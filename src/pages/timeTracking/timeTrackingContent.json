@@ -2,11 +2,16 @@
   {
     "date": "2022-09-05",
     "thisWeekTracking": {
-      "Ethan": [],
+      "Ethan": [
+        {"task": "fill out project backlog", "time": "1"},
+        {"task": "start work on domain model", "time": "1"}
+      ],
       "Raavi": [
         { "task": "work on website", "time": "1"}
       ],
-      "Johann": [],
+      "Johann": [
+
+      ],
       "Bradley": [
         { "task": "work on website", "time": "6" }
       ]

@@ -6,6 +6,7 @@ const FourUpsContainer = styled.div`
   display: flex;
   flex-direction: column;
   gap: 20px;
+  margin-right: 50px;
 `;
 
 const FourUpsPage = () => {

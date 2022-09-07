@@ -2,24 +2,25 @@
   {
     "date": "2022-09-05",
     "progress": [
-      {
-        "task": "work on website",
-        "assignee": "Bradley"
-      }
+      { "task": "Work on project website", "assignee": "Bradley" },
+      { "task":  "Work on project website", "assignee":  "Raavi" }
     ],
     "plans": [
-      {
-        "task": "plan item 1",
-        "assignee": "assignee"
-      }
+      { "task": "POC of React Native App", "assignee": "Everyone" },
+      { "task": "Domain model", "assignee": "Ethan" },
+      { "task": "Look into Google Maps for React Native", "assignee": "Ethan" },
+      { "task": "Continue to work on website", "assignee": "Bradley" }
     ],
     "risks": [
-      "risk 1",
-      "risk 2"
+      "We are only sort-of familiar with mobile apps. We are thinking about building with React Native to leverage our existing React experience.",
+      "We are unsure about how exactly we are interfacing with the SecureSync API. Each server is at a different url? Are they all accessible over the internet?",
+      "We don't know how authentication works with the SecureSync API. It could be complicated. None of us are really familiar with authentication in something like this."
     ],
     "needs": [
-      "need 1",
-      "need 2"
+      "Repository access",
+      "Lighthouse access",
+      "API access for a SecureSync server",
+      "API docs"
     ]
   }
 ]

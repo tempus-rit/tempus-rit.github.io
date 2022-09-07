@@ -10,7 +10,8 @@
         { "task": "work on website", "time": "1"}
       ],
       "Johann": [
-
+        { "task": "create user stories", "time": "1"},
+        { "task": "work on design doc", "time": "2"}
       ],
       "Bradley": [
         { "task": "work on website", "time": "6" }

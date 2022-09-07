@@ -9,7 +9,8 @@
       { "task": "POC of React Native App", "assignee": "Everyone" },
       { "task": "Domain model", "assignee": "Ethan" },
       { "task": "Look into Google Maps for React Native", "assignee": "Ethan" },
-      { "task": "Continue to work on website", "assignee": "Bradley" }
+      { "task": "Continue to work on website", "assignee": "Bradley" },
+      { "task": "Work on first half of design doc", "assignee": "Johann"}
     ],
     "risks": [
       "We are only sort-of familiar with mobile apps. We are thinking about building with React Native to leverage our existing React experience.",

@@ -7,7 +7,8 @@
         {"task": "start work on domain model", "time": "1"}
       ],
       "Raavi": [
-        { "task": "work on website", "time": "1"}
+        { "task": "work on website", "time": "1"},
+        { "task": "metrics and methodology research", "time": "1"}
       ],
       "Johann": [
         { "task": "create user stories", "time": "1"},

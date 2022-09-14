@@ -1,5 +1,26 @@
 [
   {
+    "date": "2022-09-12",
+    "progress": [
+      { "task": "Decide on proposal for tech stack", "assignee": "Bradley" },
+      { "task": "Domain Model", "assignee": "Ethan" },
+      { "task": "Work on first half of design doc", "assignee": "Johann"},
+      { "task": "Work on project metrics", "assignee": "Raavi"}
+    ],
+    "plans": [
+      { "task":  "Work on project plan and design doc", "assignee": "Everyone (at thursday meeting)" },
+      { "task":  "stand up initial expo app", "assignee": "" }
+    ],
+    "risks": [
+      "tools that we pick won't be exactly correct for the job",
+      "we could be under/overestimating the work required"
+    ],
+    "needs": [
+      "clarify requirements - we don't need a background monitoring service, right?",
+      "1200 documentation - same or different?"
+    ]
+  },
+  {
     "date": "2022-09-05",
     "progress": [
       { "task": "Work on project website", "assignee": "Bradley" },

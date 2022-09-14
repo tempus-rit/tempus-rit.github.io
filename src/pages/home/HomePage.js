@@ -10,6 +10,7 @@ const Page = styled.div`
   display: grid;
   place-items: center;
   grid-template-rows: 1fr 1.5fr;
+  overflow-x: hidden;
 `;
 
 const Sponsor = styled.div`
@@ -52,7 +53,10 @@ const HomePage = () => {
         <div style={{ width: '40%', minWidth: 500 }}>
           <h3>About</h3>
           <p style={{ marginLeft: 10 }}>
-            A description of the project goes here. It should be no longer than 250 words, and should be approved by the sponsor and coach.
+            The Timing System Central Configuration & Monitoring project is an Android based mobile application for Orolia USA, inc. The app serves as a hub which allows users to monitor, review and modify configuration values for one or more onboarded Orolia SecureSync® Time and Frequency Reference Systems from their mobile device. <br/><br/>
+            In the app, the user will be able to see the existing configurations of the added devices and monitor the configured devices via a dashboard. Users can create, modify, and delete configurations which will reflect on all the onboarded devices which follow that configuration. The dashboard allows users to monitor the general performance and health of each added device and gain insight into the networking and timing performance of their configuration.<br/><br/>
+            There is a list view and a map view which interfaces with Google Maps from which users can select any added device they want to view and/or modify the configurations of.<br/><br/>
+            The Timing System Central Configuration & Monitoring app allows users to set alerts and notifications depending on the monitored metric values for each SecureSync device being monitored. These metric values are retrieved from the exposed SecureSync REST API. Initially, the threshold criteria for these alerts will be set with default values but can also be configurable by the user to the required devices. Users can decide whether an event enables a notification as well as what kind of notification is enabled thus allowing them to monitor all added SecureSync devices from a centralized application.
           </p>
         </div>
         <div>

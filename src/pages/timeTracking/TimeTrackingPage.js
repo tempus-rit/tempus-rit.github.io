@@ -10,7 +10,7 @@ const TimeTrackingContainer = styled.div`
 `;
 
 const TimeTrackingPage = () => {
-  return <div style={{ marginLeft: 50 }}>
+  return <div style={{ marginLeft: 50, paddingBottom: 50, overflowX: 'hidden' }}>
     <h1>Time Tracking</h1>
 
     <h3>Total</h3>

@@ -1,25 +1,44 @@
 [
   {
+    "date": "2022-09-12",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task": "domain model work", "time":"2" }
+      ],
+      "Raavi": [
+        { "task":"create metrics+methodology+agenda docs", "time":"2" }
+      ],
+      "Johann": [
+        { "task":"create design documentation", "time":"2" }
+      ],
+      "Bradley": [
+        { "task":"tech stack research and documentation", "time":"2" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
     "date": "2022-09-05",
     "thisWeekTracking": {
       "Ethan": [
         {"task": "fill out project backlog", "time": "1"},
-        {"task": "start work on domain model", "time": "1"},
-        {"task": "domain model work", "time":"2"}
+        {"task": "start work on domain model", "time": "1"}
       ],
       "Raavi": [
         { "task": "work on website", "time": "1"},
-        { "task": "metrics and methodology research", "time": "1"},
-        {"task":"create metrics+methodology+agenda docs", "time":"2"}
+        { "task": "metrics and methodology research", "time": "1"}
       ],
       "Johann": [
         { "task": "create user stories", "time": "1"},
-        { "task": "work on design doc", "time": "2"},
-        {"task":"create design documentation", "time":"2"}
+        { "task": "work on design doc", "time": "2"}
       ],
       "Bradley": [
-        { "task": "work on website", "time": "6" },
-        {"task":"tech stack research and documentation", "time":"2"}
+        { "task": "work on website", "time": "6" }
       ]
     },
     "nextWeekEstimate": {

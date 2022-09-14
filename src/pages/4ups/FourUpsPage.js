@@ -10,7 +10,7 @@ const FourUpsContainer = styled.div`
 `;
 
 const FourUpsPage = () => {
-  return <div style={{ marginLeft: 50 }}>
+  return <div style={{ marginLeft: 50, paddingBottom: 100, overflowX: 'hidden' }}>
     <h1>4-Ups</h1>
     <FourUpsContainer>
       {fourUpContent.map(content => <FourUpTemplate key={content.date} content={content}/>)}

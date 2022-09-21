@@ -35,6 +35,8 @@ const NavBar = () => {
         <NavItem href='/'>Home</NavItem>
         <NavItem href='/#/4ups'>4-Ups</NavItem>
         <NavItem href='/#/time-tracking'>Time Tracking</NavItem>
+        <NavItem href='/#/domain-model'>Domain Model</NavItem>
+        <NavItem target="_blank" href='https://docs.google.com/document/d/1VqC0VSXLcAbwLMHTMlLvK3pTxwUhj_HCT4az1GfNb94/edit?usp=sharing'>Project Plan</NavItem>
       </Nav>
     </header>
   );

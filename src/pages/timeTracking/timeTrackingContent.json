@@ -7,8 +7,9 @@
         { "task":  "Research into React Native networking", "time": "2" }
       ],
       "Raavi": [
-        { "task":  "Design work", "time": "1" },
-        { "task":  "Sponser communication", "time": "1" }
+        { "task":  "Design devices/groups/maps page", "time": "1" },
+        { "task":  "Sponsor communication", "time": "0.5" },
+        { "task": "Design research", "time": "0.5"}
       ],
       "Johann": [
         { "task":  "Initial app work", "time": "2" }

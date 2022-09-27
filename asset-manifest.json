@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.2adbccca.css",
-    "main.js": "/static/js/main.b7f47cf7.js",
+    "main.js": "/static/js/main.361def06.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/TEMPUS.jpg": "/static/media/TEMPUS.ccdf5223f13a747c8ff3.jpg",
     "static/media/domain-model.png": "/static/media/domain-model.9f5aad697c9c1897e91a.png",
-    "static/media/orolia-logo.svg": "/static/media/orolia-logo.a4831ed8dd2bdcb9d42efa0cb6c6d556.svg",
+    "static/media/orolia-logo.svg": "/static/media/orolia-logo.548f6d491bfe02e32571ee4a6908a3b8.svg",
     "index.html": "/index.html",
     "main.2adbccca.css.map": "/static/css/main.2adbccca.css.map",
-    "main.b7f47cf7.js.map": "/static/js/main.b7f47cf7.js.map",
+    "main.361def06.js.map": "/static/js/main.361def06.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2adbccca.css",
-    "static/js/main.b7f47cf7.js"
+    "static/js/main.361def06.js"
   ]
 }

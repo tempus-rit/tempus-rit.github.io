@@ -3,10 +3,15 @@
     "date": "2022-09-26",
     "thisWeekTracking": {
       "Ethan": [
+        { "task":  "Figure out self signed cert issue", "time": "1" },
+        { "task":  "Research into React Native networking", "time": "2" }
       ],
       "Raavi": [
+        { "task":  "Design work", "time": "1" },
+        { "task":  "Sponser communication", "time": "1" }
       ],
       "Johann": [
+        { "task":  "Initial app work", "time": "2" }
       ],
       "Bradley": [
         { "task":  "api research", "time": "1" },

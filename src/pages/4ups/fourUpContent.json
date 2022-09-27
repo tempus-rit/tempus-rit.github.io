@@ -1,5 +1,25 @@
 [
   {
+    "date": "2022-09-26",
+    "progress": [
+      { "task": "Design for monitoring page", "assignee": "Bradley" },
+      { "task": "Design for onboarding page", "assignee": "Bradley" },
+      { "task": "Design for configuration page", "assignee": "Bradley" },
+      { "task": "authentication research for react native & securesync api", "assignee": "Ethan" },
+      { "task": "learning react", "assignee": "Johann"},
+      { "task": "Design for groups page", "assignee": "Raavi"}
+    ],
+    "plans": [
+      { "task":  "Continue app design", "assignee": "Bradley & Raavi" }
+    ],
+    "risks": [
+      "there are a lot of config options. It would be easy to miss some"
+    ],
+    "needs": [
+      "better figma account?"
+    ]
+  },
+  {
     "date": "2022-09-12",
     "progress": [
       { "task": "Decide on proposal for tech stack", "assignee": "Bradley" },

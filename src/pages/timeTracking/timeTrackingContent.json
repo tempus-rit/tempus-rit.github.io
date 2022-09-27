@@ -1,5 +1,28 @@
 [
   {
+    "date": "2022-09-26",
+    "thisWeekTracking": {
+      "Ethan": [
+      ],
+      "Raavi": [
+      ],
+      "Johann": [
+      ],
+      "Bradley": [
+        { "task":  "api research", "time": "1" },
+        { "task":  "design monitoring page", "time": "2" },
+        { "task":  "design configuration page", "time": "2" },
+        { "task":  "design onboarding page", "time": "0.5" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
     "date": "2022-09-19",
     "thisWeekTracking": {
       "Ethan": [
@@ -9,6 +32,8 @@
       "Johann": [
       ],
       "Bradley": [
+        { "task":  "react native research & initial app setup", "time": "1" },
+        { "task":  "update website", "time": "1" }
       ]
     },
     "nextWeekEstimate": {

@@ -1,5 +1,23 @@
 [
   {
+    "date": "2022-10-05",
+    "progress": [
+      
+    ],
+    "plans": [
+      
+    ],
+    "risks": [
+      "Expo related issues",
+      "Self-signed cert may give issues with react native networking",
+      "Secure Shared Preferences is new to everyone on the team",
+      "The team lacks experience in React"
+    ],
+    "needs": [
+      
+    ]
+  },
+  {
     "date": "2022-09-26",
     "progress": [
       { "task": "Design for monitoring page", "assignee": "Bradley" },

@@ -2,10 +2,13 @@
   {
     "date": "2022-10-05",
     "progress": [
-      
+      { "task": "more figma designs. we have enough to start implementation", "assignee":  "Bradley"},
+      { "task": "basic page navigation", "assignee":  "Johann"},
+      { "task": "investigate SecureSync authentication", "assignee":  "Ethan"}
     ],
     "plans": [
-      
+      { "task":  "Continue app design", "assignee": "Bradley & Raavi" },
+      { "task":  "start implementing home page and monitoring page", "assignee":  "?" }
     ],
     "risks": [
       "Expo related issues",
@@ -14,7 +17,7 @@
       "The team lacks experience in React"
     ],
     "needs": [
-      
+      "which settings are dynamic across different SecureSync devices"
     ]
   },
   {

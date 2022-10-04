@@ -1,5 +1,25 @@
 [
   {
+    "date": "2022-10-03",
+    "thisWeekTracking": {
+      "Ethan": [
+      ],
+      "Raavi": [
+      ],
+      "Johann": [
+      ],
+      "Bradley": [
+        { "task":  "finish designs for sprint tasks", "time": "3" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
     "date": "2022-09-26",
     "thisWeekTracking": {
       "Ethan": [

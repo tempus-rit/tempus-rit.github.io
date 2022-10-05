@@ -1,12 +1,230 @@
 [
   {
+    "date": "2022-11-28",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Presentation work", "time": "5" },
+        { "task":  "Network screens", "time": "1" },
+        { "task":  "SNMP V3 screens", "time": "1" }
+      ],
+      "Raavi": [
+        { "task":  "Presentation work", "time": "5" }
+      ],
+      "Johann": [
+        { "task":  "Presentation work", "time": "5" },
+        { "task":  "SNMP V1/V2 screens", "time": "2" }
+      ],
+      "Bradley": [
+        { "task":  "Presentation work", "time": "5" },
+        { "task":  "Proxy server implementaation", "time": "4" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
+    "date": "2022-11-21",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Delete button component", "time": "2" },
+        { "task":  "Log config page", "time": "1" },
+        { "task":  "Video script", "time": "2" }
+      ],
+      "Raavi": [
+        { "task":  "Video script", "time": "2" },
+        { "task":  "Video editing", "time": "5" }
+      ],
+      "Johann": [
+        { "task":  "Video script", "time": "2" },
+        { "task":  "SNMP V1/V2 screens", "time": "4" }
+      ],
+      "Bradley": [
+        { "task":  "Video script", "time": "2" },
+        { "task":  "Proxy server research", "time": "4" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
+    "date": "2022-11-14",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Log config pages", "time": "3" },
+        { "task":  "Select component", "time": "1" }
+      ],
+      "Raavi": [
+        { "task":  "Design work", "time": "2" },
+        { "task":  "Edit component", "time": "3" }
+      ],
+      "Johann": [
+        { "task":  "SNMP selection screen", "time": "3" },
+        { "task":  "References page", "time": "2" }
+      ],
+      "Bradley": [
+        { "task":  "Integrate React context", "time": "5" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
+    "date": "2022-11-07",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Log config pages", "time": "3" },
+        { "task":  "Select component", "time": "4" }
+      ],
+      "Raavi": [
+        { "task":  "Remote log server page", "time": "3" },
+        { "task":  "Design work", "time": "3" }
+      ],
+      "Johann": [
+        { "task":  "SNMP selection screen", "time": "3" },
+        { "task":  "References page", "time": "3" }
+      ],
+      "Bradley": [
+        { "task":  "References page", "time": "3" },
+        { "task":  "Design work", "time": "2" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
+    "date": "2022-10-31",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Select component", "time": "4" },
+        { "task":  "Log config pages", "time": "3" }
+      ],
+      "Raavi": [
+        { "task":  "Remote log server page", "time": "4" },
+        { "task":  "Design document/presentation", "time": "1" }
+      ],
+      "Johann": [
+        { "task":  "References page", "time": "4" }
+      ],
+      "Bradley": [
+        { "task":  "References page", "time": "4" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
+    "date": "2022-10-24",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Fix nav bar", "time": "0.5" },
+        { "task":  "Log config pages", "time": "4" }
+      ],
+      "Raavi": [
+        { "task":  "Design document/presentation", "time": "4" }
+      ],
+      "Johann": [
+        { "task":  "Home page", "time": "2" },
+        { "task":  "References page", "time": "3" }
+      ],
+      "Bradley": [
+        { "task":  "Technical document", "time": "2" },
+        { "task":  "Monitor device page", "time": "2" },
+        { "task":  "Config selection page", "time": "3" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
+    "date": "2022-10-17",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Device onboarding page", "time": "4" }
+      ],
+      "Raavi": [
+        { "task":  "Design work", "time": "5" }
+      ],
+      "Johann": [
+        { "task":  "Home page", "time": "4" }
+      ],
+      "Bradley": [
+        { "task":  "Monitor device page", "time": "4" },
+        { "task":  "Device component", "time": "2" },
+        { "task":  "Page header component", "time": "3" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
+    "date": "2022-10-10",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Complete add device functionality", "time": "3" },
+        { "task":  "Onboarding page", "time": "1" },
+        { "task":  "Update domain model", "time": "1" }
+      ],
+      "Raavi": [
+        { "task":  "design work", "time": "6" }
+      ],
+      "Johann": [
+        { "task":  "App structure story", "time": "5" }
+      ],
+      "Bradley": [
+        { "task":  "Design work", "time": "3" },
+        { "task":  "Device component", "time": "2" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
     "date": "2022-10-03",
     "thisWeekTracking": {
       "Ethan": [
+        { "task":  "Add device story work", "time": "3" },
+        { "task":  "Onboarding page structure story", "time": "1" }
       ],
       "Raavi": [
+        { "task":  "Log config design", "time": "1" },
+        { "task":  "group workflow design", "time": "1" },
+        { "task":  "Config templates design", "time": "1" },
+        { "task":  "Map design", "time": "1" }
       ],
       "Johann": [
+        { "task":  "App structure story", "time": "3" }
       ],
       "Bradley": [
         { "task":  "finish designs for sprint tasks", "time": "3" }

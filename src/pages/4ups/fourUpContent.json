@@ -3,12 +3,19 @@
     "date": "2022-10-05",
     "progress": [
       { "task": "more figma designs. we have enough to start implementation", "assignee":  "Bradley"},
+      { "task":  "Log config design", "assignee": "Raavi" },
+      { "task":  "group workflow design", "assignee": "Raavi" },
+      { "task":  "Config templates design", "assignee": "Raavi" },
+      { "task":  "Map design", "assignee": "Raavi" },
       { "task": "basic page navigation", "assignee":  "Johann"},
-      { "task": "investigate SecureSync authentication", "assignee":  "Ethan"}
+      { "task": "investigate SecureSync authentication", "assignee":  "Ethan"},
+      { "task":  "Implement login functionality", "assignee": "Ethan" }
+
     ],
     "plans": [
       { "task":  "Continue app design", "assignee": "Bradley & Raavi" },
-      { "task":  "start implementing home page and monitoring page", "assignee":  "?" }
+      { "task":  "start implementing home page and monitoring page", "assignee":  "?" },
+      { "task":  "Complete device onboarding page", "assignee": "Ethan" }
     ],
     "risks": [
       "Expo related issues",

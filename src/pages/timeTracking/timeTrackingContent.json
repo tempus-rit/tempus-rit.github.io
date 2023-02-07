@@ -1,5 +1,81 @@
 [
   {
+    "date": "2023-01-07",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Network general settings API calls", "time": "6" }
+      ],
+      "Raavi": [
+        { "task":  "SNMP V3 screens", "time": "6" }
+      ],
+      "Johann": [
+        { "task":  "SNMP Traps screens", "time": "6" }
+      ],
+      "Bradley": [
+        { "task":  "Create dedicated form components", "time": "4" },
+        { "task":  "PTP screens", "time": "4" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
+    "date": "2023-01-31",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Network screens", "time": "2" },
+        { "task":  "Network general settings API calls", "time": "3" },
+        { "task":  "Testing research", "time": "1" }
+      ],
+      "Raavi": [
+        { "task":  "SNMP V3 screens", "time": "5" }
+      ],
+      "Johann": [
+        { "task":  "SNMP Traps Screen", "time": "5" }
+      ],
+      "Bradley": [
+        { "task":  "Figure out live data in References", "time": "6" },
+        { "task":  "Proxy server Testing", "time": "3" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
+    "date": "2023-01-24",
+    "thisWeekTracking": {
+      "Ethan": [
+        { "task":  "Merging last of log screens", "time": "3" },
+        { "task":  "Network screens", "time": "2" },
+        { "task":  "Testing research", "time": "1" }
+      ],
+      "Raavi": [
+        { "task":  "SNMP V3 screens", "time": "5" }
+      ],
+      "Johann": [
+        { "task":  "SNMP Traps", "time": "5" }
+      ],
+      "Bradley": [
+        { "task":  "Proxy server implementaation", "time": "4" },
+        { "task":  "Proxy server Testing", "time": "4" }
+      ]
+    },
+    "nextWeekEstimate": {
+      "Ethan": [],
+      "Raavi": [],
+      "Johann": [],
+      "Bradley": []
+    }
+  },
+  {
     "date": "2022-11-28",
     "thisWeekTracking": {
       "Ethan": [

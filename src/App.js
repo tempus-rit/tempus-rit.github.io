@@ -5,6 +5,7 @@ import TimeTrackingPage from './pages/timeTracking/TimeTrackingPage';
 import NavBar from './components/NavBar';
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import DomainModelPage from './pages/DomainModelPage';
+import ArtifactPage from './pages/ArtifactPage';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path='/4ups' element={<FourUpsPage />} />
           <Route path='/time-tracking' element={<TimeTrackingPage />} />
           <Route path='/domain-model' element={<DomainModelPage/>} />
+          <Route path='/project-artifacts' element={<ArtifactPage />} />
         </Routes>
       </HashRouter>
     </div>
